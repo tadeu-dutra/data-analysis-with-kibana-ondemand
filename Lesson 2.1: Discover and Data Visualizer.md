@@ -5,11 +5,6 @@ In this lesson, you’ll learn how you can use Discover to explore your data. Yo
 In this lab, you will work with Discover and Data Visualizer to explore the web logs sample data set in more detail. You will also import a CSV log file into Kibana.
 
 
-
-# Summary:
-
-In this lab, you explored the web logs data set with the Discover and Data Visualizer tools. You also imported a CSV log file into Kibana.
-
 ## a) Discover
 
 <img width="1915" height="971" alt="image" src="https://github.com/user-attachments/assets/3d10abd0-05f1-4e5b-900b-141f5e3a0109" />
@@ -18,6 +13,10 @@ In this lab, you explored the web logs data set with the Discover and Data Visua
 
 <img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/43269b8a-52db-4264-bd82-67ce48501dde" />
 
+
+# Summary:
+
+In this lab, you explored the web logs data set with the Discover and Data Visualizer tools. You also imported a CSV log file into Kibana.
 
 # Review
 

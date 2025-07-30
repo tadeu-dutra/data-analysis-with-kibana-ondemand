@@ -5,9 +5,8 @@ In this lesson, you’ll learn how metrics show a single number and how various 
 In this lab, you will add Text panels to your dashboards as well as add metric visualizations using Lens.
 
 <img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/c3928a05-5de8-4b86-898d-94fe19911b46" />
-<img width="1887" height="165" alt="image" src="https://github.com/user-attachments/assets/b8032964-7587-4790-8443-940f727086eb" />
 <img width="927" height="454" alt="image" src="https://github.com/user-attachments/assets/4b429401-5993-4062-a9b5-f746faa3100a" />
-
+<img width="1887" height="165" alt="image" src="https://github.com/user-attachments/assets/b8032964-7587-4790-8443-940f727086eb" />
 
 # Summary:
 

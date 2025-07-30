@@ -5,5 +5,10 @@ In this lesson, you’ll learn how to show, hide, and adjust labels, ticks, axes
 
 
 
+
+
 # Review
 
+- Adjusting the look of a visualization may help to reveal information that could have been otherwise obscured.
+- You can compare your data over different time frames using an offset. Graph a daily revenue chart and duplicate it with an offset of one week
+- There is a dashboard option to hide all panel titles at once.

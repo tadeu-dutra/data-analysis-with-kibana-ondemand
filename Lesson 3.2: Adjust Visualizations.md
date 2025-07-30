@@ -5,6 +5,11 @@ In this lesson, you’ll learn how to show, hide, and adjust labels, ticks, axes
 
 
 
+# Summary
+
+In this lab, you learned how to create a line chart with a time shift, curve lines, and adjust axis bounds. You also added reference lines and annotations to visualizations.
+
+<img width="1916" height="988" alt="image" src="https://github.com/user-attachments/assets/2f4dfbf7-ec01-43df-83a6-f5e65a6dbe03" />
 
 
 # Review

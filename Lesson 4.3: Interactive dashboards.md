@@ -16,4 +16,5 @@ In this lesson, you’ll learn how you can interact with dashboards. You'll see 
     - Clicking a value in a visualization
     - Selecting a value in a Control
     - ...
+  - Dashboard drilldowns enable you to open a dashboard or another web page from another dashboard, taking the time range, filters, and other parameters with you so the context remains the same.
   

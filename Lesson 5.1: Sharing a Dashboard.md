@@ -2,7 +2,19 @@
 
 In this lesson, you’ll learn how to share dashboards with others and generate PDF reports.
 
-#
+In this lab, you will explore how to share a Dashboard.
+
+
+## a) PDF
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/a97a55b9-0b89-4441-96f2-e20d54e2a2a2" />
+
+## b) PNG
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/93111a8e-13f4-4fd4-b43e-0269a64712d9" />
+
+
+# Summary
+
+In this lab, you shared a Dashboard via a Direct Link, as well as a PDF and a PNG report.
 
 # Review
 

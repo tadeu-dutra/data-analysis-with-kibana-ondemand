@@ -6,6 +6,9 @@ In this lab, you will learn about building tables using Lens. You will understan
 
 # Summary
 
+In this lab, you have learned how to use Lens to create table visualizations.
+
+
 # Review
 
 - Cells in a table show a metric for a grouping of data.

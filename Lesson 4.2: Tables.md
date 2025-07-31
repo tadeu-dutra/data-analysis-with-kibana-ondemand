@@ -7,3 +7,8 @@ In this lab, you will learn about building tables using Lens. You will understan
 # Summary
 
 # Review
+
+- Cells in a table show a metric for a grouping of data.
+- Conditional coloring can be set for cells or text in table columns.
+- Saved searches are good for adding search results to a dashboard in the form of a document table.
+- Saved searches are a convenient way to reuse searches that you’ve created in Discover, as they store the query text, filters, and current view of Discover, including the columns and sort order in the document table, and the data view.

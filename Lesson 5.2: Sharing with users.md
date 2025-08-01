@@ -20,9 +20,13 @@ In this lab, you will create a user with limited access to view a shared Dashboa
 
   ## a) Create User
     Username: public
+    Full Name: Tadeu Augusto Dutra Pinto
     Password: public123
     Privileges > Roles: dashviewer
-    
+
+
+<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/d1fe3b0a-70ad-4551-9034-111bd5669889" />
+
 
 # Summary
 

@@ -2,7 +2,32 @@
 
 In this lesson, you’ll learn how you can use roles, permissions, and spaces to share dashboards with others.
 
+In this lab, you will create a user with limited access to view a shared Dashboard
 
+  Elastic Security uses Role-Based Access Control (RBAC). Whenever you need to give out permissions to view an asset, start with the Role. Manage these settings by clicking on:
+  > Stack Management > Security > Roles
+
+  ## a) Elasticsearch
+    Role Name: dashviewer
+    Indices: kibana_sample_data_logs
+    Privileges: read, view_index_metadata
+
+  ## b) Kibana
+    Spaces: Nova
+    Privileges for all features:  Customize (Dashboard: Read)
+
+  > Stack Management > Security > Users
+
+  ## a) Create User
+    Username: public
+    Password: public123
+    Privileges > Roles: dashviewer
+    
+
+# Summary
+
+In this lab, you shared a Dashboard with a user with limited access.
+  
 # Review
 
 - Roles are a collection of privileges that allow you to perform actions in Kibana and Elasticsearch.

@@ -1,0 +1,10 @@
+# 8.2. Creating in-app alerts
+
+
+# 
+
+# Review
+
+- When creating a rule from Discover, the Create rule form is pre-filled with the query present in the query bar. It helps you create alerts faster.
+- To create a tracking containment rule you need one index or data view for tracking entities, but you also need another index or data view for defining boundaries.
+- When creating an anomaly detection alert you can create rules based on bucket, record, or influencer results.

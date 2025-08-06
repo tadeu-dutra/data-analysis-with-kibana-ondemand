@@ -7,3 +7,4 @@ Ideally, your data schema is defined at index time. However, there are situation
 # Review
 - Use the Painless language.
 - Use emit to return a value. The value can be accessed using the doc map. Ex: emit(doc['my_field'].value)
+- Although runtime fields can be quite useful in certain instances, you should use them with caution, because they can be computationally expensive.

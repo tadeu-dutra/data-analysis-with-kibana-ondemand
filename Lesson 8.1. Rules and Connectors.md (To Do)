@@ -2,11 +2,50 @@
 
 In this lesson, you'll learn the basics of alerting. You will learn how to define rules and what are the different types of connectors.
 
+
+
+## Objective:
+
 In this lab, you will learn how to create a simple Threshold Alert using Kibana Alerting.
 
+    First, access Stack Management, where you will find the Alerts and Insights section.
+
+    > Stack Management
+
+Next, click Rules under the Alerts and Insights section.
+
+There aren't any rules created yet, so let's click Create rule.
+
+Name your rule "My first rule" in the Create rule panel that opens on the side. "Create rule"
+
+Select Index threshold as rule type. You can either scroll down through the available options or use the integrated search bar. "Index threshold"
+
+Now, configure your rule with the following settings:
+
+    set INDEX to kibana_sample_data_logs and @timestamp as the Time field
+    set IS ABOVE to 5
+    set FOR THE LAST to 30 minutes
+    set Check every to 5 minutes
+    You should also see a preview of the content of the index: "Index threshold settings"
+
+Finally, let's configure the Action. This section will define which action to take if there's a match to the rule conditions. Your lab is configured with a predefined Email connector, so click Email to use the preconfigured Demo emails connector in the next step.
+
+Set your email address in the To field and provide a subject in the Subject field.
+
+Leave the rest as it is and click Add action. "Alerting action"
+
+Click Save to save your first rule.
+
+Now that your rule is created, you can verify its status in the Rules page. "Rules"
+
+Wait until the Last response column is Active and check your inbox. You should have received an email like the one below. "Email Example"
+
+## Summary:
+
+In this lab, you created a simple rule to notify you whenever the count of documents of your index is over a threshold during a certain amount of time and you verified how to use Connectors to receive email Alerts.
 
 
-# Review
+## Review
 
 - Conditions, Schedule, and Actions. The connectors help you define the actions.
 - You can reuse a connector for multiple rules.

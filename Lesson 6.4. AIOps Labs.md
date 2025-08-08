@@ -51,3 +51,8 @@ In this lab, you will discover how you can use AIOps Labs to quickly understand 
 ## Summary:
 
 In this lab, you learned how to use AIOps labs to quickly get insights from your data.
+
+## Review
+
+- Change point detection: Select the metric you want to analyze and the time range and you’ll quickly see results.
+- Log pattern analysis: I would not be use for 'country_name' field for instance. It works best on unstructured data. Using it on the country_name field will simply lead to the same result in the “top values” section of the Discover app.

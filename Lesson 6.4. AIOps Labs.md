@@ -44,6 +44,9 @@ In this lab, you will discover how you can use AIOps Labs to quickly understand 
 
     You can see that some destinations had a dip in their DistanceMiles distribution. Maybe an incident occurred that day.
 
+    <img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/9bd26665-de20-4ebc-8c9b-e192a0cc8acd" />
+
+
 ## Summary:
 
 In this lab, you learned how to use AIOps labs to quickly get insights from your data.

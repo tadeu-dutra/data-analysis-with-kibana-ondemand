@@ -44,6 +44,6 @@ In this lab, you will learn how to manage and monitor existing rules.
 You have reached the end of your course lab book, however it is strongly encouraged that you move on to the (optional) Anomaly Hunt exercise. This provides an excellent opportunity to practically apply the concepts and techniques throughout this course.
 
 
-# Review
+## Review
 
 - 
